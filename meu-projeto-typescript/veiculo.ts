@@ -1,4 +1,5 @@
 // Exercício 3: Classes e Herança
+
 class Pessoa {
     nome: string;
     idade: number;
